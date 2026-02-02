@@ -10,10 +10,12 @@ including Aletheia).
 
 * A generalization of Erdos-1051, proving irrationality of certain rapidly converging series: [tex](BKKKZ26/BKKKZ26.tex), [pdf](BKKKZ26/BKKKZ26.pdf) ([full paper](https://arxiv.org/abs/2601.21442)).
 * Results from a semi-autonomous case study on applying Gemini to open Erdős problems: [tex](Erdos/Erdos.tex), [pdf](Erdos/Erdos.pdf) ([full paper](https://arxiv.org/abs/2601.22401)).
+* Computations of eigenweights for the Arithmetic Hirzebruch Proportionality Principle of Feng--Yun--Zhang: [tex](F26/F26.tex), [pdf](F26/F26.pdf) ([full paper](https://arxiv.org/abs/2601.23245)).
+* An initial case of a non-trivial eigenweight computation: [tex](FYZ26/FYZ26.tex), [pdf](FYZ26/FYZ26.pdf) ([full paper](https://arxiv.org/abs/2601.18557)).
 
 ## License and disclaimer
 
-Copyright 2025 Google LLC
+Copyright 2026 Google LLC
 
 All software is licensed under the Apache License, Version 2.0 (Apache 2.0); you
 may not use this file except in compliance with the Apache 2.0 license. You may
