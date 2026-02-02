@@ -18,6 +18,13 @@ reasoning in AI. Following our
 * *IMO-GradingBench*: A dataset of 1000 human gradings to advance automatic
 evaluation.
 
+## [Aletheia](aletheia/README.md)
+A reasoning agent powered by Gemini Deep Think that can iteratively generate,
+verify, and revise solutions.
+
+This release includes prompts and outputs from Aletheia on research level math
+problems.
+
 ## License and disclaimer
 
 Copyright 2025 Google LLC
