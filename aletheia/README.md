@@ -14,6 +14,7 @@ including Aletheia).
 * An initial case of a non-trivial eigenweight computation: [tex](FYZ26/FYZ26.tex), [pdf](FYZ26/FYZ26.pdf) ([full paper](https://arxiv.org/abs/2601.18557)).
 * A mathematical input to the paper "Strongly polynomial iterations for robust Markov chains" by Asadi–Chatterjee–Goharshady–
 Karrabi–Montaseri–Pagano. It establishes that specific bounded combinations of numbers are in polynomially many dyadic intervals: [tex](ACGKMP/ACGKMP.tex), [pdf](ACGKMP/ACGKMP.pdf) ([full paper](https://arxiv.org/abs/2601.23229)).
+* Generalizations of bounds for independence sets, used to help produce the paper "Lower bounds for multivariate independence polynomials and their generalisations" by Lee and Seo: [tex](LeeSeo26/LeeSeo26.tex), [pdf](LeeSeo26/LeeSeo26.pdf) ([full paper](https://arxiv.org/abs/2602.02450)).
 
 ## License and disclaimer
 
