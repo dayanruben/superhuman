@@ -4,9 +4,20 @@ See https://imobench.github.io for more info.
 
 ## Usage
 
-*   IMO-AnswerBench: [answerbench.csv](answerbench.csv)
+*   IMO-AnswerBench: [answerbench_v2.csv](answerbench_v2.csv)
 *   IMO-ProofBench: [proofbench.csv](proofbench.csv)
 *   IMO-GradingBench: [gradingbench.csv](gradingbench.csv)
+
+As of 02/12/2026, we updated IMO-Answerbench with `answerbench_v2.csv` to fix
+some problems that had ambiguous problem statements or incorrect answers.
+The previous version [answerbench.csv](answerbench.csv) is now deprecated.
+
+## Acknowledgments
+
+We would like to thank Xujie from Tsinghua University, Aiden Jung and Hyunwoo
+Choi from MIT, Youngbeom Jin from Caltech, Jiwon Kang from Seoul National
+University, and Vineet Gupta and Pranjal Awasthi from Google DeepMind for
+helping identify the issues with IMO-AnswerBench!
 
 ## Citing this work
 
