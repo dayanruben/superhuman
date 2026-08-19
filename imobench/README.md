@@ -7,7 +7,7 @@ See https://imobench.github.io for more info.
 *   IMO-AnswerBench: [answerbench_v2.csv](answerbench_v2.csv)
 *   IMO-ProofBench: [proofbench_v2.csv](proofbench_v2.csv)
 *   IMO-GradingBench: [gradingbench.csv](gradingbench.csv)
-*   IMO-LeanProofBench: [lean_proof_bench.csv](lean_proof_bench.csv)
+*   IMO-LeanProofBench: [lean_proof_bench_v2.csv](lean_proof_bench_v2.csv)
 
 As of 05/29/2025, we updated IMO-ProofBench with `proofbench_v2.csv` to fix a
 typo in PB-Advanced-022.
@@ -16,6 +16,19 @@ The previous version [proofbench.csv](proofbench.csv) is now deprecated.
 As of 02/12/2026, we updated IMO-Answerbench with `answerbench_v2.csv` to fix
 some problems that had ambiguous problem statements or incorrect answers.
 The previous version [answerbench.csv](answerbench.csv) is now deprecated.
+
+As of 08/18/2026, we updated IMO-LeanProofBench with `lean_proof_bench_v2.csv`
+to fix incorrect formalizations and ensure that problem statements are friendly
+to automated proof comparators under Lean and Mathlib 4.27.0.
+The previous version [lean_proof_bench.csv](lean_proof_bench.csv) is now
+deprecated.
+
+Note on geometry problem statements: We identified that the original natural
+language problem statements for two geometry problems (PB-Basic-028 and
+PB-Advanced-010) were imprecise and have updated their problem descriptions
+accordingly in the new CSV file. However, the original informal writing was
+already clean enough for human readers to interpret the intended meaning, so
+this update does not change the model's solving capability.
 
 ## Acknowledgments
 
@@ -30,6 +43,14 @@ We would like to thank Xujie from Tsinghua University, Aiden Jung and Hyunwoo
 Choi from MIT, Youngbeom Jin from Caltech, Jiwon Kang from Seoul National
 University, and Vineet Gupta and Pranjal Awasthi from Google DeepMind for
 helping identify the issues with IMO-AnswerBench!
+
+We would like to thank Kaiying Hou, Henryk Michalewski, and Eric Wieser for
+identifying misformalizations in IMO-LeanProofBench and suggesting verification
+that problem statements are comparator friendly under Lean and Mathlib 4.27.0.
+
+We would like to thank Hao Shen, Yuxuan Xiao, Lihong Zhi, Junyu Guo, and
+Tian Cui from the MechGeo Research Team for using our benchmark and for
+notifying us about the mistakes in the formalization.
 
 ## Citing this work
 
