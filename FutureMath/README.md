@@ -1,6 +1,7 @@
 # FutureMath
 
-We collect outcomes from FutureMath here.
+Here, we collect successful outcomes of FutureMath Benchmark, an internal
+benchmark with open research-level mathematics problems.
 
 ## License and disclaimer
 

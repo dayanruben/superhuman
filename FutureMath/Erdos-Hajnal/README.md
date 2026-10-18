@@ -6,8 +6,9 @@ families of other graphs.
 
 This paper was entirely obtained by Cogentic (arXiv preprint
 [arXiv:2609.40324](https://arxiv.org/abs/2609.40324)), an agentic framework for
-mathematical discovery, using Gemini Argon as the base model. There was no human
-interaction other than the initial prompt for Cogentic to generate a full proof.
+mathematical discovery, using Gemini 4 Argon as the base model. There was no
+human interaction other than the initial prompt for Cogentic to generate a full
+proof.
 The Cogentic harness was built by Yang Cai, Vineet Gupta, Yanchen Jiang,
 Christopher Liaw, Aranyak Mehta, Grigoris Velegkas, and Di Wang (Google Research
 and Google DeepMind).
