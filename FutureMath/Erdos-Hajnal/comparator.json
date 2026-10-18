@@ -1,0 +1,20 @@
+{
+  "challenge_module": "ErdosHajnal.Problem",
+  "solution_module": "ErdosHajnal.Proof",
+  "theorem_names": [
+    "Erdos61.erdos_hajnal_all_paths",
+    "Erdos61.erdos_61.variants.all_paths",
+    "Erdos61.erdos_hajnal_all_paths_fintype",
+    "Erdos61.main_theorem_A2_linear_forests_and_brooms",
+    "Erdos61.main_theorem_A4_spiders_birds_sawtooths",
+    "Erdos61.main_theorem_A5_small_trees_and_forests",
+    "Erdos61.main_theorem_B_stage1_stage2_all_families",
+    "Erdos61.main_theorem_C_closures_forest_pairs_hook4_and_infinite_towers"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ],
+  "enable_nanoda": false
+}

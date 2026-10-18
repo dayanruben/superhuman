@@ -32,6 +32,8 @@ generate, verify, and revise solutions. See [paper](aletheia/Aletheia.pdf).
 This release includes prompts and outputs from Aletheia on research level math
 problems.
 
+## [FutureMath](FuturemMath/README.md)
+
 ## License and disclaimer
 
 Copyright 2025 Google LLC
