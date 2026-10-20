@@ -21,7 +21,8 @@ Lean project setup.
 
 We would like to explicitly acknowledge that Tung H. Nguyen was the first to
 resolve the $P_k$ case, preceding any other group of humans or AI systems to our
-knowledge. Following discussions with Nguyen on how to present our respective
+knowledge. Here is the link to the paper: [arXiv:2610.24887](https://arxiv.org/abs/2610.24887).
+Following discussions with Nguyen on how to present our respective
 $P_k$ results, he kindly proposed that both parties announce their findings
 independently while mutually acknowledging each other's work.
 
